@@ -1,0 +1,8 @@
+{
+  "name": "Pencil Path — Classroom Writing Workshop Tracker",
+  "description": "A bright, visual writing process tracker for elementary teachers and students with customizable project steps, language-learner clipart cues, and easy yearly student roster management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
